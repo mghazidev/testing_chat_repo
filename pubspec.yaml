@@ -63,6 +63,7 @@ flutter_launcher_icons:
   adaptive_icon_foreground: "assets/images/logo.png"
   android: true
   ios: true
+  
 
   # dependency_overrides:
   # ffi: 2.1.0
